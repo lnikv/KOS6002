@@ -3,3 +3,5 @@
 /bayesian_model
 /mcmc_cmdstanpy.html
 /mcmc_cmdstanpy.pdf
+RRT/posterior_draws.csv
+RRT/.DS_Store
