@@ -5,3 +5,7 @@
 /mcmc_cmdstanpy.pdf
 RRT/posterior_draws.csv
 RRT/.DS_Store
+bayes_model_simple.exe
+bayes_model_simple.stan
+bayes_model.exe
+bayes_model.stan
