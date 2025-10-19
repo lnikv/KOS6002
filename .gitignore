@@ -9,3 +9,6 @@ bayes_model_simple.exe
 bayes_model_simple.stan
 bayes_model.exe
 bayes_model.stan
+.ipynb_checkpoints/mcmc_beta_bernoulli-checkpoint.ipynb
+beta_bernoulli.stan
+beta_bernoulli.exe
