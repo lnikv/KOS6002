@@ -1,3 +1,5 @@
+# Make a github id and clone
+
 # cmdstanpy install and setup
 - Run the commands in a cell in jupyter notebook.
 - Comment out first!
